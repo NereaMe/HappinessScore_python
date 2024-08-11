@@ -12,4 +12,4 @@ Procedures explored during the project:
 - Time-series analysis
 - Analysis narrative
 
-Full story available in Tableau - [World Happiness Report 2015 - 2019]((https://public.tableau.com/app/profile/nerea.menor/viz/WorldHappinessReport2015-2019_Nerea_casestudy/Story12))
+Full story available in Tableau - [World Happiness Report 2015 - 2019](https://public.tableau.com/app/profile/nerea.menor/viz/WorldHappinessReport2015-2019_Nerea_casestudy/Story12)
